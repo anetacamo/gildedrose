@@ -1,3 +1,10 @@
+public class HelloWorld
+{
+	public static void main(String[] args) {
+		System.out.println("Hello World!");
+	}
+}
+
 /* package net.praqma.codeacademy.gildedrose;
 
 import static org.junit.Assert.*;
